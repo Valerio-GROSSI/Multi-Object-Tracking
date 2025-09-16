@@ -1,0 +1,9 @@
+numpy==2.2.6
+torch==2.7.1
+ultralytics==8.3.170
+supervision==0.26.1
+torchreid==0.2.5
+gdown==5.2.0
+tensorboard==2.20.0
+deep-sort-realtime
+boxmot==15.0.1
