@@ -1,6 +1,10 @@
 # Multi-Object Tracking Pipeline
 
-Read the added PDF in the current directory to know what is about this project and how to run it.
+Please refer to the PDF in the current directory for more detailed information about the project and instructions on how to run it.
+For the first run, please refer to the README for setup instructions.
+
+This project focuses on object detection and tracking in videos, with the goal of developing a pipeline to automate object detection, tracking, and evaluation in video streams.
+Given the wide variety of existing detection and tracking architectures, this project focuses on implementing the most commonly used approaches while maintaining a flexible framework that enables easy integration of new models.
 
 FIRST RUN:
 
