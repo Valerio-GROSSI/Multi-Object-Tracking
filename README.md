@@ -23,22 +23,22 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
-
 <table width="100%">
 <tr>
-<td align="center"><b>Repertory</b></td>
-<td align="center"><b>Outputs</b></td>
-<td align="center"><b>TrackEval</b></td>
+  <td align="center" width="30%"><b>Repository / Inputs</b></td>
+  <td align="center" width="35%"><b>Outputs</b></td>
+  <td align="center" width="35%"><b>TrackEval</b></td>
 </tr>
 
 <tr>
-
-<!-- COLONNE 1 -->
-<td>
+<td valign="top" width="30%">
   <table width="100%">
     <tr>
+      <td align="center"><b>Repository</b></td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="assets/struct_project2.png" style="width:100%;">
+        <img src="assets/struct_project2.png" width="100%">
       </td>
     </tr>
     <tr>
@@ -46,21 +46,18 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/struct_input.png" style="width:100%;">
+        <img src="assets/struct_input.png" width="100%">
       </td>
     </tr>
   </table>
 </td>
 
-<!-- OUTPUTS -->
-<td align="center">
-  <img src="assets/struct_output.png" style="width:100%;">
+<td align="center" valign="top" width="35%">
+  <img src="assets/struct_output.png" width="100%">
 </td>
 
-<!-- TRACKEVAL -->
-<td align="center">
-  <img src="assets/struct_output_trackeval.png" style="width:100%;">
+<td align="center" valign="top" width="35%">
+  <img src="assets/struct_output_trackeval.png" width="100%">
 </td>
-
 </tr>
 </table>
