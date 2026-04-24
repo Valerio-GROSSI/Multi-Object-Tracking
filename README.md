@@ -36,22 +36,22 @@ and delete all the other ones, otherwise the execution will be extremely long
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ```
 <p align="center">
-Detection results obtained using the Ultralytics YOLO11 model on the MOT17 dataset.
+<b>Detection Results</b><br>
+<span style="font-size:90%">
+Ultralytics YOLO11 on MOT17 dataset
+</span><br><br>
+<img src="assets/detection.gif" width="80%">
 </p>
 
+<br>
+
 <p align="center">
-  <img src="assets/detection.gif" width="80%">
+<b>Tracking Results</b><br>
+<span style="font-size:90%">
+DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections
+</span><br><br>
+<img src="assets/tracking.gif" width="80%">
 </p>
-
-<p align="center">
-Tracking results obtained using the DeepSORT tracker with the OSNet x0.25 Market1501 re-identification model,<br>
-based on detections from the Ultralytics YOLO11 model (MOT17 dataset).
-</p>
-
-<p align="center">
-  <img src="assets/tracking.gif" width="80%">
-</p
-
 <div align="center">
 
 <table>
