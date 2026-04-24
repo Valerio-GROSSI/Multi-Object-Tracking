@@ -22,7 +22,9 @@ Keep only for example the MOT17-02 and MOT17-04 sequences in MOT17 folder,
 and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
-5. 
+
+<div align="center">
+
 <table>
 <tr>
   <th>Repository</th>
@@ -38,6 +40,7 @@ and delete all the other ones, otherwise the execution will be extremely long
   </td>
 </tr>
 </table>
+
 <br>
 
 <table>
@@ -55,3 +58,5 @@ and delete all the other ones, otherwise the execution will be extremely long
   </td>
 </tr>
 </table>
+
+</div>
