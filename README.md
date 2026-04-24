@@ -32,9 +32,9 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
 <tr>
 <td align="center" valign="top" style="width:15%;">
-  <img src="assets/struct_project2.png" style="width:100%;">
+  <img src="assets/struct_project2_120.png" style="width:100%;">
   <br><b>Inputs</b><br>
-  <img src="assets/struct_input.png" style="width:100%;">
+  <img src="assets/struct_input_120.png" style="width:100%;">
 </td>
 
 <td align="center" valign="top" style="width:42.5%;">
