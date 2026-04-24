@@ -46,7 +46,7 @@ Example outputs on the MOT17 dataset:
 
 <p align="center">
 <b>Detection Results</b><br>
-YOLO11 on MOT17 dataset<br>
+YOLO11 Ultralytics<br>
 <img src="assets/detection.gif" width="80%">
 </p>
 
