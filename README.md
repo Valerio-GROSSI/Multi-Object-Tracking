@@ -29,3 +29,9 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
   <img src="assets/detection.gif" width="45%" />
   <img src="assets/tracking.gif" width="45%" />
 </p>
+
+<p align="center">
+  <img src="assets/struct_input.png" width="30%" />
+  <img src="assets/struct_output.png" width="30%" />
+  <img src="assets/struct_output_trackeval.png" width="30%" />
+</p>
