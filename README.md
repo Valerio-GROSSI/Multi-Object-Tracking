@@ -23,13 +23,18 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
 
+<table width="100%">
+<tr>
+
+<!-- COLONNE GAUCHE -->
+<td width="65%" valign="top">
+
 <p align="center">
-  <img src="assets/detection.gif" width="45%">
-  <img src="assets/tracking.gif" width="45%">
+  <img src="assets/detection.gif" width="80%">
 </p>
 
 <p align="center">
-  <img src="assets/pedestrian_plot.png" width="70%">
+  <img src="assets/tracking.gif" width="80%">
 </p>
 
 <div align="center">
@@ -69,3 +74,15 @@ and delete all the other ones, otherwise the execution will be extremely long
 </table>
 
 </div>
+
+</td>
+
+<!-- COLONNE DROITE -->
+<td width="35%" valign="top" align="center">
+
+<img src="assets/pedestrian_plot.png" width="100%">
+
+</td>
+
+</tr>
+</table>
