@@ -40,7 +40,7 @@ and delete all the other ones, otherwise the execution will be extremely long
     <tr><th>Repertory</th></tr>
     <tr>
       <td align="center">
-        <img src="assets/struct_project2_180.png" width="100%">
+        <img src="assets/struct_project2_120.png" width="100%">
       </td>
     </tr>
   </table>
@@ -52,7 +52,7 @@ and delete all the other ones, otherwise the execution will be extremely long
     <tr><th>Inputs</th></tr>
     <tr>
       <td align="center">
-        <img src="assets/struct_input_180.png" width="100%">
+        <img src="assets/struct_input_120.png" width="100%">
       </td>
     </tr>
   </table>
