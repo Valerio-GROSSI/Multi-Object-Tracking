@@ -26,36 +26,26 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
 <table width="100%">
 <tr>
-<td align="center" width="22%"><b>Repertory</b></td>
-<td align="center" width="39%"><b>Outputs</b></td>
-<td align="center" width="39%"><b>TrackEval</b></td>
+<td align="center"><b>Repertory</b></td>
+<td align="center"><b>Outputs</b></td>
+<td align="center"><b>TrackEval</b></td>
 </tr>
 
 <tr>
 
-<td width="22%" valign="top">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <img src="assets/struct_project2.png" style="width:100%;">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Inputs</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/struct_input.png" style="width:100%;">
-      </td>
-    </tr>
-  </table>
+<td valign="top" align="center">
+  <div style="max-width:260px; margin:auto;">
+    <img src="assets/struct_project2.png" style="width:100%;">
+    <br><b>Inputs</b><br>
+    <img src="assets/struct_input.png" style="width:100%;">
+  </div>
 </td>
 
-<td align="center" width="39%" valign="top">
+<td align="center" valign="top">
   <img src="assets/struct_output.png" style="width:100%;">
 </td>
 
-<td align="center" width="39%" valign="top">
+<td align="center" valign="top">
   <img src="assets/struct_output_trackeval.png" style="width:85%;">
 </td>
 
