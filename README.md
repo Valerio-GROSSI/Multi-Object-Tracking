@@ -36,7 +36,7 @@ and delete all the other ones, otherwise the execution will be extremely long
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ```
 
-## Sample ResultsS
+## Sample Results
 
 <p align="center">
 <b>Detection Results</b><br>
