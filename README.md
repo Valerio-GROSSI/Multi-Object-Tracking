@@ -25,6 +25,7 @@ rm -f MOT17.zip
 3. Move MOT17 into Inputs folder
 ```bash
 mv MOT17 Inputs/
+```
 
 For a first run, just to understand and visualize outputs :
 Keep only for example the MOT17-02 and MOT17-04 sequences in MOT17 folder 
