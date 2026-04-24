@@ -17,14 +17,14 @@ conda activate name
 pip install -r requirements.txt
 ```
 
-2. Download MOT17 dataset, available with this command:
+2. Download MOT17 dataset, available with this command :
 ```bash
 wget https://motchallenge.net/data/MOT17.zip
 unzip MOT17.zip -d MOT17
 rm -f MOT17.zip
 ```
 
-3. Move MOT17 into Inputs folder
+3. Move MOT17 into Inputs folder :
 ```bash
 mv MOT17 Inputs/
 ```
@@ -33,7 +33,7 @@ For a first run, just to understand and visualize outputs :
 Keep only for example the MOT17-02 and MOT17-04 sequences in MOT17 folder 
 and delete all the other ones, otherwise the execution will be extremely long
 
-4. Execute the command
+4. Execute the command :
 ```bash
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ```
