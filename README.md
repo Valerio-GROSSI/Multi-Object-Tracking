@@ -23,7 +23,7 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
 
-table style="width:100%; table-layout:fixed;">
+<table style="width:100%; table-layout:fixed;">
 <tr>
 <td align="center" style="width:15%;"><b>Repertory</b></td>
 <td align="center" style="width:42.5%;"><b>Outputs</b></td>
