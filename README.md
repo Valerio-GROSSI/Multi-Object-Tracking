@@ -9,7 +9,7 @@ Given the wide variety of existing detection and tracking architectures, this pr
 FIRST RUN:
 
 1. To have a python environment containing the expected libraries for running the scripts :
-```markdown
+```bash
 conda create -n name python=3.10
 conda activate name
 pip install -r requirements.txt
