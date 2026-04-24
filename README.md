@@ -22,7 +22,7 @@ rm -f MOT17.zip
 mv MOT17 Inputs/
 
 For a first run, just to understand and visualize outputs :
-Keep only for example the MOT17-02 and MOT17-04 sequences in MOT17 folder, 
+Keep only for example the MOT17-02 and MOT17-04 sequences in MOT17 folder 
 and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
