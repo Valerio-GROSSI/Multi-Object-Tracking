@@ -6,6 +6,7 @@ For the first run and setup, please refer to the instructions below.
 This project focuses on object detection and tracking in videos, with the goal of developing a pipeline to automate object detection, tracking, and evaluation in video streams.
 Given the wide variety of existing detection and tracking architectures, this project focuses on implementing the most commonly used approaches while maintaining a flexible framework that enables easy integration of new models.
 
+
 ## First run
 
 1. To have a python environment containing the expected libraries for running the scripts :
@@ -35,6 +36,7 @@ and delete all the other ones, otherwise the execution will be extremely long
 ```bash
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ```
+
 
 ## Sample Results
 
