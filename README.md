@@ -84,7 +84,7 @@ DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections<br>
 <table>
 <tr>
   <th>Outputs Folder</th>
-  <th>Outputs stored in the TrackEval folder</th>
+  <th>Outputs stored in the TrackEval Folder</th>
 </tr>
 
 <tr>
