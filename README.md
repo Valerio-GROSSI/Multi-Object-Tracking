@@ -30,21 +30,35 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 <td align="center"><b>Output</b></td>
 <td align="center"><b>TrackEval</b></td>
 </tr>
+
 <tr>
-<td align="center">
-  <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/struct_input.png" style="max-width:100%; max-height:100%;">
-  </div>
+<!-- INPUT subdivisé -->
+<td>
+  <table width="100%">
+    <tr>
+      <td align="center"><b>Repertory</b></td>
+      <td align="center"><b>Inputs</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/struct_project2.png" width="100%">
+      </td>
+      <td align="center">
+        <img src="assets/struct_input.png" width="100%">
+      </td>
+    </tr>
+  </table>
 </td>
+
+<!-- OUTPUT -->
 <td align="center">
-  <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/struct_output.png" style="max-width:100%; max-height:100%;">
-  </div>
+  <img src="assets/struct_output.png" width="100%">
 </td>
+
+<!-- TRACKEVAL -->
 <td align="center">
-  <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
-    <img src="assets/struct_output_trackeval.png" style="max-width:100%; max-height:100%;">
-  </div>
+  <img src="assets/struct_output_trackeval.png" width="100%">
 </td>
+
 </tr>
 </table>
