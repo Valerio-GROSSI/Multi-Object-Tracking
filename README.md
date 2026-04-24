@@ -27,3 +27,5 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ![Demo](assets/detection.gif)
 
 ![Demo](assets/tracking.gif)
+
+![Description]()
