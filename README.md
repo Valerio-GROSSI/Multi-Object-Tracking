@@ -25,56 +25,48 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 <table style="width:100%; table-layout:fixed;">
 <tr>
-<td align="center" style="width:15%;"><b>Repertory</b></td>
-<td align="center" style="width:42.5%;"><b>Outputs</b></td>
-<td align="center" style="width:42.5%;"><b>TrackEval</b></td>
+  <th style="width:15%;">Repertory</th>
+  <th style="width:42.5%;">Outputs</th>
+  <th style="width:42.5%;">TrackEval</th>
 </tr>
 
 <tr>
 
-<!-- COLONNE 1 AVEC BANDEAUX -->
+<!-- COLONNE 1 -->
 <td valign="top">
-  <table style="width:100%; border-collapse:collapse;">
 
-    <!-- Bandeau Repertory -->
-    <tr>
-      <td align="center" style="border-top:1px solid #d0d7de; border-bottom:1px solid #d0d7de;">
-        <b>Repertory</b>
-      </td>
-    </tr>
-
-    <!-- Image Repertory -->
+  <!-- Bloc Repertory -->
+  <table>
+    <tr><th>Repertory</th></tr>
     <tr>
       <td align="center">
-        <img src="assets/struct_project2_180.png" style="width:100%;">
+        <img src="assets/struct_project2_180.png" width="100%">
       </td>
     </tr>
-
-    <!-- Bandeau Inputs -->
-    <tr>
-      <td align="center" style="border-top:1px solid #d0d7de; border-bottom:1px solid #d0d7de;">
-        <b>Inputs</b>
-      </td>
-    </tr>
-
-    <!-- Image Inputs -->
-    <tr>
-      <td align="center">
-        <img src="assets/struct_input_180.png" style="width:100%;">
-      </td>
-    </tr>
-
   </table>
+
+  <br>
+
+  <!-- Bloc Inputs -->
+  <table>
+    <tr><th>Inputs</th></tr>
+    <tr>
+      <td align="center">
+        <img src="assets/struct_input_180.png" width="100%">
+      </td>
+    </tr>
+  </table>
+
 </td>
 
 <!-- OUTPUT -->
 <td align="center" valign="top">
-  <img src="assets/struct_output.png" style="width:100%;">
+  <img src="assets/struct_output.png" width="100%">
 </td>
 
 <!-- TRACKEVAL -->
 <td align="center" valign="top">
-  <img src="assets/struct_output_trackeval.png" style="width:85%;">
+  <img src="assets/struct_output_trackeval.png" width="85%">
 </td>
 
 </tr>
