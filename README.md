@@ -59,7 +59,7 @@ DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections<br>
 
 <br>
 
-## Input requirements and generated outputs
+## Input Requirements and Generated Outputs
 
 <table>
 <tr>
