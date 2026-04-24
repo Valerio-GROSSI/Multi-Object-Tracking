@@ -24,4 +24,4 @@ and delete all the other ones, otherwise the execution will be extremely long
 4. Execute the command
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
-[Download / Watch video](tracking.mp4)
+![Demo](tracking.gif)
