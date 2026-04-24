@@ -24,12 +24,15 @@ and delete all the other ones, otherwise the execution will be extremely long
 4. Execute the command
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
-<p align="center">
-  <b>Input</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Output</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>TrackEval</b><br><br>
-
-  <img src="assets/struct_input.png" height="260" />
-  <img src="assets/struct_output.png" height="260" />
-  <img src="assets/struct_output_trackeval.png" height="260" />
-</p>
+<table width="100%">
+<tr>
+<td align="center"><b>Input</b></td>
+<td align="center"><b>Output</b></td>
+<td align="center"><b>TrackEval</b></td>
+</tr>
+<tr>
+<td><img src="assets/struct_input.png" width="100%"></td>
+<td><img src="assets/struct_output.png" width="100%"></td>
+<td><img src="assets/struct_output_trackeval.png" width="100%"></td>
+</tr>
+</table>
