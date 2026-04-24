@@ -4,7 +4,7 @@ This project focuses on object detection and tracking in videos, with the goal o
 
 Given the wide variety of existing detection and tracking architectures, this project focuses on implementing the most commonly used approaches while maintaining a flexible framework that enables easy integration of new models.
 
-Please refer to the PDF in the current directory for more detailed information about the project and instructions on how to run it.
+Please refer to the PDF in the current directory for more detailed information about this project and instructions on how to run it.
 For the first run and setup, please refer to the instructions below.
 
 <br>
