@@ -30,15 +30,37 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 <td align="center"><b>Output</b></td>
 <td align="center"><b>TrackEval</b></td>
 </tr>
+
 <tr>
-<td align="center">
-  <img src="assets/struct_input.png" style="width:100%;">
+
+<!-- COLONNE 1 SCINDÉE -->
+<td>
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="assets/struct_project2.png" style="width:100%;">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Inputs</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/struct_input.png" style="width:100%;">
+      </td>
+    </tr>
+  </table>
 </td>
+
+<!-- OUTPUT (inchangé) -->
 <td align="center">
   <img src="assets/struct_output.png" style="width:100%;">
 </td>
+
+<!-- TRACKEVAL (inchangé) -->
 <td align="center">
   <img src="assets/struct_output_trackeval.png" style="width:85%;">
 </td>
+
 </tr>
 </table>
