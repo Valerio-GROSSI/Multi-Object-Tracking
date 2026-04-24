@@ -24,6 +24,13 @@ and delete all the other ones, otherwise the execution will be extremely long
 4. Execute the command
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
+<table width="100%">
+<tr>
+  <td align="center" width="30%"><b>Repository</b></td>
+  <td align="center" width="35%" rowspan="2"><b>Outputs</b></td>
+  <td align="center" width="35%" rowspan="2"><b>TrackEval</b></td>
+</tr>
+
 <tr>
   <td align="center"><b>Inputs</b></td>
 </tr>
