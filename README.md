@@ -37,9 +37,7 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ```
 <p align="center">
 <b>Detection Results</b><br>
-<span style="font-size:90%">
-Ultralytics YOLO11 on MOT17 dataset
-</span><br><br>
+YOLO11 on MOT17 dataset<br>
 <img src="assets/detection.gif" width="80%">
 </p>
 
@@ -47,12 +45,9 @@ Ultralytics YOLO11 on MOT17 dataset
 
 <p align="center">
 <b>Tracking Results</b><br>
-<span style="font-size:90%">
-DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections
-</span><br><br>
+DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections<br>
 <img src="assets/tracking.gif" width="80%">
 </p>
-<div align="center">
 
 <table>
 <tr>
