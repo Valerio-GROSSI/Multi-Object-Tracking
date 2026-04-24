@@ -35,6 +35,9 @@ and delete all the other ones, otherwise the execution will be extremely long
 ```bash
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ```
+
+## Section
+
 <p align="center">
 <b>Detection Results</b><br>
 YOLO11 on MOT17 dataset<br>
@@ -48,6 +51,8 @@ YOLO11 on MOT17 dataset<br>
 DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections<br>
 <img src="assets/tracking.gif" width="80%">
 </p>
+
+## Section
 
 <table>
 <tr>
