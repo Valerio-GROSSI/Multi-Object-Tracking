@@ -4,9 +4,8 @@ Please refer to the PDF in the current directory for more detailed information a
 For the first run and setup, please refer to the instructions below.
 
 This project focuses on object detection and tracking in videos, with the goal of developing a pipeline to automate object detection, tracking, and evaluation in video streams.
-Given the wide variety of existing detection and tracking architectures, this project focuses on implementing the most commonly used approaches while maintaining a flexible framework that enables easy integration of new models.
+Given the wide variety of existing detection and tracking architectures, this project focuses on implementing the most commonly used approaches while maintaining a flexible framework that enables easy integration of new models.<br>
 
-<br>
 ## First run
 
 1. To have a python environment containing the expected libraries for running the scripts :
