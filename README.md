@@ -37,13 +37,16 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 ```
 
 <h3 align="center">
-Detection results obtained with the Ultralytics YOLO11 model, the OSNet x0.25 Market1501 re-identification model, and the DeepSORT tracker
+Detection results obtained using the Ultralytics YOLO11 model on the MOT17 dataset.
 </h3>
-
 
 <p align="center">
   <img src="assets/detection.gif" width="80%">
 </p>
+
+<h3 align="center">
+Tracking results obtained using the DeepSORT tracker with the OSNet x0.25 Market1501 re-identification model, based on detections from the Ultralytics YOLO11 model (MOT17 dataset).
+</h3>
 
 <p align="center">
   <img src="assets/tracking.gif" width="80%">
