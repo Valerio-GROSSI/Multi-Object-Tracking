@@ -9,16 +9,17 @@ Given the wide variety of existing detection and tracking architectures, this pr
 FIRST RUN:
 
 1. To have a python environment containing the expected libraries for running the scripts :
+```bash
 conda create -n name python=3.10
 conda activate name
 pip install -r requirements.txt
 
-2. Download MOT17, available with this command:
+3. Download MOT17, available with this command:
 wget https://motchallenge.net/data/MOT17.zip
 unzip MOT17.zip -d MOT17
 rm -f MOT17.zip
 
-3. Move MOT17 into Inputs folder
+4. Move MOT17 into Inputs folder
 mv MOT17 Inputs/
 
 For a first run, just to understand and visualize outputs :
