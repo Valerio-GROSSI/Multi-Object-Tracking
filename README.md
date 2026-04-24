@@ -26,13 +26,14 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
 <table width="100%">
 <tr>
-<td align="center" width="28%"><b>Repertory</b></td>
-<td align="center" width="36%"><b>Outputs</b></td>
-<td align="center" width="36%"><b>TrackEval</b></td>
+<td align="center" width="22%"><b>Repertory</b></td>
+<td align="center" width="39%"><b>Outputs</b></td>
+<td align="center" width="39%"><b>TrackEval</b></td>
 </tr>
 
 <tr>
-<td width="28%" valign="top">
+
+<td width="22%" valign="top">
   <table width="100%">
     <tr>
       <td align="center">
@@ -50,12 +51,13 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
   </table>
 </td>
 
-<td align="center" width="36%" valign="top">
+<td align="center" width="39%" valign="top">
   <img src="assets/struct_output.png" style="width:100%;">
 </td>
 
-<td align="center" width="36%" valign="top">
+<td align="center" width="39%" valign="top">
   <img src="assets/struct_output_trackeval.png" style="width:85%;">
 </td>
+
 </tr>
 </table>
