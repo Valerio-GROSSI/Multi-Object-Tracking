@@ -26,31 +26,30 @@ and delete all the other ones, otherwise the execution will be extremely long
 <table style="width:100%; table-layout:fixed;">
 <tr>
 <td align="center" style="width:15%;"><b>Repertory</b></td>
-<td align="center" style="width:42.5%;" rowspan="2"><b>Outputs</b></td>
-<td align="center" style="width:42.5%;" rowspan="2"><b>TrackEval</b></td>
+<td align="center" style="width:42.5%;"><b>Outputs</b></td>
+<td align="center" style="width:42.5%;"><b>TrackEval</b></td>
 </tr>
 
 <tr>
-<td align="center"><b>Inputs</b></td>
-</tr>
 
-<tr>
+<!-- COLONNE 1 -->
 <td align="center" valign="top">
-  <img src="assets/struct_project2_180.png" style="width:100%;">
+  <b>Repertory</b><br>
+  <img src="assets/struct_project2_180.png" style="width:100%;"><br><br>
+
+  <b>Inputs</b><br>
+  <img src="assets/struct_input_180.png" style="width:100%;">
 </td>
 
-<td align="center" valign="top" rowspan="2">
+<!-- OUTPUT -->
+<td align="center" valign="top">
   <img src="assets/struct_output.png" style="width:100%;">
 </td>
 
-<td align="center" valign="top" rowspan="2">
+<!-- TRACKEVAL -->
+<td align="center" valign="top">
   <img src="assets/struct_output_trackeval.png" style="width:85%;">
 </td>
-</tr>
 
-<tr>
-<td align="center" valign="top">
-  <img src="assets/struct_input_180.png" style="width:100%;">
-</td>
 </tr>
 </table>
