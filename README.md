@@ -25,13 +25,11 @@ and delete all the other ones, otherwise the execution will be extremely long
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
 <p align="center">
-  <b>Detection</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Tracking</b><br><br>
-  <img src="assets/detection.gif" width="45%" />
-  <img src="assets/tracking.gif" width="45%" />
-</p>
+  <b>Input</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Output</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>TrackEval</b><br><br>
 
-<p align="center">
-  <img src="assets/struct_input.png" width="30%" />
-  <img src="assets/struct_output.png" width="30%" />
-  <img src="assets/struct_output_trackeval.png" width="30%" />
+  <img src="assets/struct_input.png" height="260" />
+  <img src="assets/struct_output.png" height="260" />
+  <img src="assets/struct_output_trackeval.png" height="260" />
 </p>
