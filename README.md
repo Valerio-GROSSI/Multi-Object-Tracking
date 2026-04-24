@@ -26,6 +26,8 @@ Keep only for example the MOT17-02 and MOT17-04 sequences in MOT17 folder
 and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
+python MOT_main.py --gen_det_images --gen_track_images --from_detections
+
 <p align="center">
   <img src="assets/detection.gif" width="80%">
 </p>
