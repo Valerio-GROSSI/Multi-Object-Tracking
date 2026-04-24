@@ -35,7 +35,7 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
 <!-- COLONNE 1 (TRÈS COMPACTE) -->
 <td align="center" valign="top">
-  <div style="width:110px; min-width:110px; max-width:110px;">
+  <div style="width:50px; min-width:50px; max-width:50px;">
     <img src="assets/struct_project2.png" style="width:100%;">
     <br><b>Inputs</b><br>
     <img src="assets/struct_input.png" style="width:100%;">
