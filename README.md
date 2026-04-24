@@ -23,11 +23,14 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
 
-![Demo](assets/detection.gif)
+<p align="center">
+  <img src="assets/detection.gif" width="45%">
+  <img src="assets/tracking.gif" width="45%">
+</p>
 
-![Demo](assets/tracking.gif)
-
-![Description](assets/pedestrian_plot.png)
+<p align="center">
+  <img src="assets/pedestrian_plot.png" width="70%">
+</p>
 
 <div align="center">
 
