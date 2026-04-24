@@ -24,8 +24,8 @@ and delete all the other ones, otherwise the execution will be extremely long
 4. Execute the command
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
-![Demo](assets/detection.gif)
-
-![Demo](assets/tracking.gif)
-
-![Description]()
+<p align="center">
+  <b>Detection</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Tracking</b><br><br>
+  <img src="assets/detection.gif" width="45%" />
+  <img src="assets/tracking.gif" width="45%" />
+</p>
