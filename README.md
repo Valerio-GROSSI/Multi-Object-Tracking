@@ -58,8 +58,8 @@ DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections<br>
 </p>
 
 <div align="center">
-<b>Evaluation</b>
-TrackEval metrics
+<b>Evaluation</b><br>
+TrackEval metrics<br>
 <img src="assets/pedestrian_plot.png" width="50%">
 </div>
 
