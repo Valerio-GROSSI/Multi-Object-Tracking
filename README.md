@@ -48,10 +48,10 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 <tr>
   <td align="center">
-    <img src="assets/struct_output.png" width="160%">
+    <img src="assets/struct_output.png" width="100%">
   </td>
   <td align="center">
-    <img src="assets/struct_output_trackeval.png" width="65%">
+    <img src="assets/struct_output_trackeval.png" width="100%">
   </td>
 </tr>
 </table>
