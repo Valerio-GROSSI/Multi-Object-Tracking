@@ -42,7 +42,7 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 
 ## Sample Results
 
-Example outputs on the MOT17 dataset:
+Sample outputs on the MOT17 dataset:
 
 <p align="center">
 <b>Detection Results</b><br>
