@@ -51,7 +51,7 @@ and delete all the other ones, otherwise the execution will be extremely long
     <img src="assets/struct_output.png" width="120%">
   </td>
   <td align="center">
-    <img src="assets/struct_output_trackeval.png" width="85%">
+    <img src="assets/struct_output_trackeval.png" width="65%">
   </td>
 </tr>
 </table>
