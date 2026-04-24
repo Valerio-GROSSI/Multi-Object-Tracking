@@ -23,6 +23,12 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
 
+![Demo](assets/detection.gif)
+
+![Demo](assets/tracking.gif)
+
+![Description]()
+
 <div align="center">
 
 <table>
