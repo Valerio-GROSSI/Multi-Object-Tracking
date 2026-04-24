@@ -23,34 +23,26 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
 python MOT_main.py --gen_det_images --gen_track_images --from_detections
-
-<table width="100%">
+<table style="width:100%; table-layout:fixed;">
 <tr>
-<td align="center"><b>Repertory</b></td>
-<td align="center"><b>Outputs</b></td>
-<td align="center"><b>TrackEval</b></td>
+<td align="center" style="width:15%;"><b>Repertory</b></td>
+<td align="center" style="width:42.5%;"><b>Outputs</b></td>
+<td align="center" style="width:42.5%;"><b>TrackEval</b></td>
 </tr>
 
 <tr>
-
-<!-- COLONNE 1 (TRÈS COMPACTE) -->
-<td align="center" valign="top">
-  <div style="width:50px; min-width:50px; max-width:50px;">
-    <img src="assets/struct_project2.png" style="width:100%;">
-    <br><b>Inputs</b><br>
-    <img src="assets/struct_input.png" style="width:100%;">
-  </div>
+<td align="center" valign="top" style="width:15%;">
+  <img src="assets/struct_project2.png" style="width:100%;">
+  <br><b>Inputs</b><br>
+  <img src="assets/struct_input.png" style="width:100%;">
 </td>
 
-<!-- OUTPUT -->
-<td align="center" valign="top">
+<td align="center" valign="top" style="width:42.5%;">
   <img src="assets/struct_output.png" style="width:100%;">
 </td>
 
-<!-- TRACKEVAL -->
-<td align="center" valign="top">
+<td align="center" valign="top" style="width:42.5%;">
   <img src="assets/struct_output_trackeval.png" style="width:85%;">
 </td>
-
 </tr>
 </table>
