@@ -31,8 +31,14 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 <td align="center"><b>TrackEval</b></td>
 </tr>
 <tr>
-<td><img src="assets/struct_input.png" width="100%"></td>
-<td><img src="assets/struct_output.png" width="100%"></td>
-<td><img src="assets/struct_output_trackeval.png" width="100%"></td>
+<td align="center">
+  <img src="assets/struct_input.png" height="250">
+</td>
+<td align="center">
+  <img src="assets/struct_output.png" height="250">
+</td>
+<td align="center">
+  <img src="assets/struct_output_trackeval.png" height="250">
+</td>
 </tr>
 </table>
