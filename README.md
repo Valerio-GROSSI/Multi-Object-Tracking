@@ -23,6 +23,7 @@ rm -f MOT17.zip
 ```
 
 3. Move MOT17 into Inputs folder
+```bash
 mv MOT17 Inputs/
 
 For a first run, just to understand and visualize outputs :
