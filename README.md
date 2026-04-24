@@ -32,13 +32,19 @@ python MOT_main.py --gen_det_images --gen_track_images --from_detections
 </tr>
 <tr>
 <td align="center">
-  <img src="assets/struct_input.png" style="width:100%;">
+  <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+    <img src="assets/struct_input.png" style="max-width:100%; max-height:100%;">
+  </div>
 </td>
 <td align="center">
-  <img src="assets/struct_output.png" style="width:100%;">
+  <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+    <img src="assets/struct_output.png" style="max-width:100%; max-height:100%;">
+  </div>
 </td>
 <td align="center">
-  <img src="assets/struct_output_trackeval.png" style="width:85%;">
+  <div style="width:100%; height:300px; display:flex; align-items:center; justify-content:center;">
+    <img src="assets/struct_output_trackeval.png" style="max-width:100%; max-height:100%;">
+  </div>
 </td>
 </tr>
 </table>
