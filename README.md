@@ -44,7 +44,8 @@ Detection results obtained using the Ultralytics YOLO11 model on the MOT17 datas
 </p>
 
 <p align="center">
-Tracking results obtained using the DeepSORT tracker with the OSNet x0.25 Market1501 re-identification model, based on detections from the Ultralytics YOLO11 model (MOT17 dataset).
+Tracking results obtained using the DeepSORT tracker with the OSNet x0.25 Market1501 re-identification model,<br>
+based on detections from the Ultralytics YOLO11 model (MOT17 dataset).
 </p>
 
 <p align="center">
