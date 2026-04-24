@@ -23,7 +23,7 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
 
-<table style="width:100%; table-layout:fixed;">
+table style="width:100%; table-layout:fixed;">
 <tr>
 <td align="center" style="width:15%;"><b>Repertory</b></td>
 <td align="center" style="width:42.5%;"><b>Outputs</b></td>
@@ -32,13 +32,39 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 <tr>
 
-<!-- COLONNE 1 -->
-<td align="center" valign="top">
-  <b>Repertory</b><br>
-  <img src="assets/struct_project2_180.png" style="width:100%;"><br><br>
+<!-- COLONNE 1 AVEC BANDEAUX -->
+<td valign="top">
+  <table style="width:100%; border-collapse:collapse;">
 
-  <b>Inputs</b><br>
-  <img src="assets/struct_input_180.png" style="width:100%;">
+    <!-- Bandeau Repertory -->
+    <tr>
+      <td align="center" style="border-top:1px solid #d0d7de; border-bottom:1px solid #d0d7de;">
+        <b>Repertory</b>
+      </td>
+    </tr>
+
+    <!-- Image Repertory -->
+    <tr>
+      <td align="center">
+        <img src="assets/struct_project2_180.png" style="width:100%;">
+      </td>
+    </tr>
+
+    <!-- Bandeau Inputs -->
+    <tr>
+      <td align="center" style="border-top:1px solid #d0d7de; border-bottom:1px solid #d0d7de;">
+        <b>Inputs</b>
+      </td>
+    </tr>
+
+    <!-- Image Inputs -->
+    <tr>
+      <td align="center">
+        <img src="assets/struct_input_180.png" style="width:100%;">
+      </td>
+    </tr>
+
+  </table>
 </td>
 
 <!-- OUTPUT -->
