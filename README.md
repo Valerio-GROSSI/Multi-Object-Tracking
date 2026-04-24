@@ -27,7 +27,7 @@ and delete all the other ones, otherwise the execution will be extremely long
 
 ![Demo](assets/tracking.gif)
 
-![Description]()
+![Description](assets/pedestrian_plot.png)
 
 <div align="center">
 
