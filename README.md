@@ -15,12 +15,14 @@ conda activate name
 pip install -r requirements.txt
 ```
 
-3. Download MOT17, available with this command:
+2. Download MOT17, available with this command:
+```bash
 wget https://motchallenge.net/data/MOT17.zip
 unzip MOT17.zip -d MOT17
 rm -f MOT17.zip
+```
 
-4. Move MOT17 into Inputs folder
+3. Move MOT17 into Inputs folder
 mv MOT17 Inputs/
 
 For a first run, just to understand and visualize outputs :
