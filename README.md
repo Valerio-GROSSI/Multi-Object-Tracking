@@ -22,52 +22,36 @@ Keep only for example the MOT17-02 and MOT17-04 sequences in MOT17 folder,
 and delete all the other ones, otherwise the execution will be extremely long
 
 4. Execute the command
-
-<table style="width:100%; table-layout:fixed;">
+5. 
+<table>
 <tr>
-  <th style="width:15%;">Repertory</th>
-  <th style="width:42.5%;">Outputs</th>
-  <th style="width:42.5%;">TrackEval</th>
+  <th>Repository</th>
+  <th>Inputs</th>
 </tr>
 
 <tr>
+  <td align="center">
+    <img src="assets/struct_project2_180.png" width="100%">
+  </td>
+  <td align="center">
+    <img src="assets/struct_input_180.png" width="100%">
+  </td>
+</tr>
+</table>
+<br>
 
-<!-- COLONNE 1 -->
-<td valign="top">
+<table>
+<tr>
+  <th>Outputs</th>
+  <th>TrackEval</th>
+</tr>
 
-  <!-- Bloc Repertory -->
-  <table>
-    <tr><th>Repertory</th></tr>
-    <tr>
-      <td align="center">
-        <img src="assets/struct_project2_120.png" width="100%">
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Bloc Inputs -->
-  <table>
-    <tr><th>Inputs</th></tr>
-    <tr>
-      <td align="center">
-        <img src="assets/struct_input_120.png" width="100%">
-      </td>
-    </tr>
-  </table>
-
-</td>
-
-<!-- OUTPUT -->
-<td align="center" valign="top">
-  <img src="assets/struct_output.png" width="100%">
-</td>
-
-<!-- TRACKEVAL -->
-<td align="center" valign="top">
-  <img src="assets/struct_output_trackeval.png" width="85%">
-</td>
-
+<tr>
+  <td align="center">
+    <img src="assets/struct_output.png" width="100%">
+  </td>
+  <td align="center">
+    <img src="assets/struct_output_trackeval.png" width="85%">
+  </td>
 </tr>
 </table>
