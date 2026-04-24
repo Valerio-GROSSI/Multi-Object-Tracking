@@ -15,7 +15,7 @@ conda activate name
 pip install -r requirements.txt
 ```
 
-2. Download MOT17, available with this command:
+2. Download MOT17 dataset, available with this command:
 ```bash
 wget https://motchallenge.net/data/MOT17.zip
 unzip MOT17.zip -d MOT17
