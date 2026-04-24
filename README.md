@@ -51,8 +51,6 @@ YOLO11 Ultralytics<br>
 <img src="assets/detection.gif" width="80%">
 </p>
 
-<br>
-
 <p align="center">
 <b>Tracking Results</b><br>
 DeepSORT + OSNet x0.25 (Market1501), based on YOLO11 detections<br>
