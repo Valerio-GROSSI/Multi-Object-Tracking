@@ -9,7 +9,7 @@ For the first run and setup, please refer to the instructions below.
 
 <br>
 
-## First run
+## First Run
 
 1. To have a python environment containing the expected libraries for running the scripts :
 ```bash
