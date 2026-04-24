@@ -13,6 +13,7 @@ FIRST RUN:
 conda create -n name python=3.10
 conda activate name
 pip install -r requirements.txt
+```
 
 3. Download MOT17, available with this command:
 wget https://motchallenge.net/data/MOT17.zip
